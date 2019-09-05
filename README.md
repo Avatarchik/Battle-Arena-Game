@@ -8,6 +8,8 @@ Project - A game made with Unity and C#
 <br/>
 In the fifth semester of my bachelor studies at the Beuth University of Applied Sciences classmates and I developed a game with Unity Engine and C# called Battle Arena. For this project we had 11 weeks for the developing.
 <br/><br/>
+Our goal was to develop everything ourselves. Like background music, sound effects, graphics, animations, etc.
+<br/><br/>
 <p align="center">
     <img src="./doc/01_MainMenu.png"  width="49%" height="49%">
     <img src="./doc/02_ChooseCharacter.png"  width="49%" height="49%">
