@@ -6,7 +6,7 @@ Project - A game made with Unity and C#
     Dev Team
 </p>
 <br/>
-In the forth semester of my bachelor studies at the Beuth University of Applied Sciences a classmate and I developed our very first game with the framework Qt and in C++ called Submarine. For this project we had 3 weeks for the developing. The gameplay is simple, like in the game Space Invaders, enemies are floating down from the top trying to hit the player. The Player has to shoot the enemies to achieve points.
+In the fifth semester of my bachelor studies at the Beuth University of Applied Sciences classmates and I developed a game with Unity Engine and c# called Submarine. For this project we had 3 weeks for the developing. The gameplay is simple, like in the game Space Invaders, enemies are floating down from the top trying to hit the player. The Player has to shoot the enemies to achieve points.
 <br/><br/>
 <p align="center">
     <img src="./doc/01_MainMenu.png"  width="49%" height="49%">
@@ -30,5 +30,5 @@ In the forth semester of my bachelor studies at the Beuth University of Applied 
     <img src="./doc/20_GameOver02.png"  width="49%" height="49%">
     <img src="./doc/21_Ende.png"  width="49%" height="49%">
 </p>
-<br/><br/>
+<br/>
 For game testing, we invited friends and family to play and test the game.
