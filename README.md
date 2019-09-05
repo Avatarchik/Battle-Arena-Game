@@ -8,7 +8,7 @@ Project - A game made with Unity and C#
 <br/><br/>
 <p align="center">
     <img src="./doc/01_MainMenu.png"  width="49%" height="49%">
-    Main Menu
+    <figcaption>Main Menu</figcaption>
     <img src="./doc/02_ChooseCharacter.png"  width="49%" height="49%">
     Choose your Character
     <img src="./doc/03_StoryScene01.png"  width="49%" height="49%">
