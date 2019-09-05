@@ -9,7 +9,6 @@ Project - A game made with Unity and C#
     <img src="./doc/01_MainMenu.png"  width="49%" height="49%">
     <img src="./doc/02_ChooseCharacter.png"  width="49%" height="49%">
     <img src="./doc/03_StoryScene01.png"  width="49%" height="49%">
-    <img src="./doc/04_StoryScene02.png"  width="49%" height="49%">
     <img src="./doc/05_Ghoul01.png"  width="49%" height="49%">
     <img src="./doc/06_Ghoul02.png"  width="49%" height="49%">
     <img src="./doc/07_Ghoul03.png"  width="49%" height="49%">
