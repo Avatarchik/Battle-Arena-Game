@@ -2,7 +2,7 @@
 School project - A game made with Unity and C#
 
 <p align="center">
-    <img src="./Dev_Team.png"  width="49%" height="49%">
+    <img src="./Dev_Team.png"  width="99%" height="99%">
 </p>
 <br/><br/>
 <p align="center">
