@@ -1,4 +1,4 @@
-# Battle-Arena-Game
+# Battle Arena 
 Project - A game made with Unity and C#
 
 <p align="center">
@@ -6,7 +6,7 @@ Project - A game made with Unity and C#
     Dev Team
 </p>
 <br/>
-In the fifth semester of my bachelor studies at the Beuth University of Applied Sciences classmates and I developed a game with Unity Engine and c# called Submarine. For this project we had 3 weeks for the developing. The gameplay is simple, like in the game Space Invaders, enemies are floating down from the top trying to hit the player. The Player has to shoot the enemies to achieve points.
+In the fifth semester of my bachelor studies at the Beuth University of Applied Sciences classmates and I developed a game with Unity Engine and C# called Battle Arena. For this project we had 11 weeks for the developing.
 <br/><br/>
 <p align="center">
     <img src="./doc/01_MainMenu.png"  width="49%" height="49%">
