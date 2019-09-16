@@ -1,5 +1,5 @@
 # Battle Arena 
-Project - A game made with Unity and C#
+Project - a game made with Unity and C#
 
 <p align="center">
     <img src="./Dev_Team.png"  width="99%" height="99%">
