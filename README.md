@@ -35,14 +35,12 @@ We had 11 weeks for the developing.
 <br/>
 What can I say about Battle Arena?<br/>
 Well, the team and I are really proud of our project because it was the first time we built and coordinated a team.<br/>
-Finding out the strenghts and weaknesses of each member and to share out tasks was a challenge but we tried and we did it and we did good.<br/>
-Each member of the team had a specific task and each member did an outstanding and very good job. Of course we also sometimes had situations where we discussed very rough (it was never personal, though) but we always had the focus what would benefit the game.<br/>
-For us as a team it was very important that every team member has a voice and anybody can criticise anybody else's work if it's necessary.
+Finding out the strenghts and weaknesses of each member and to share out tasks was a challenge but we tried and we did it and we did good. Each member of the team had a specific task and each member did an outstanding and very good job. Of course, we also sometimes had situations where we discussed very rough (in a very constructive way) but we always had the focus what would benefit the game. For us as a team it was very important that every team member has a voice and anybody can criticise anybody else's work if it's necessary.
 <br/><br/>
 Our game was created from us with a lot of love and passion.
 <br/><br/>
 Battle Arena is a story driven game with a turn-based combat system. You play as a warrior who got sucked into a battle arena fighting against enemies - in the end you have to defeat the death to free yourself.
 <br/><br/>
-Our goal was to develop everything ourselves - like background music, sound effects, voice acting, graphics and animations.
+Our goal was to develop everything ourselves - like background and combat music, sound effects, voice acting, graphics, animations.. just everything!
 <br/><br/>
 For game testing, we invited friends and family to play and test the game.
