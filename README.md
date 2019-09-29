@@ -6,7 +6,7 @@ Project - a game made with Unity and C#
     Dev Team
 </p>
 <br/>
-As part of my studies in the fifth semester at the Beuth University of Applied Sciences four classmates and I developed our biggest project called Battle Arena with the game engine Unity in C#. It was also our very first time to work with the Unity Engine and C# and we really loved it.
+As part of my studies in the fifth semester at the Beuth University of Applied Sciences, four classmates and I developed our biggest project called Battle Arena with the gaming engine Unity in C#. It was also our very first time to work with the Unity Engine and C# and we really loved it.
 <br/><br/>
 We had eleven weeks for the developing.
 <br/><br/>
